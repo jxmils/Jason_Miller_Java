@@ -56,6 +56,40 @@ public class Main {
                 customers.add(newCustomer);
             }
         }
+
+        for (Customer cust : customers) {
+            System.out.println(cust.toString());
+        }
+
+        System.out.println("The customers with a positive balance are:");
+        for (Customer cust : findPositiveBalances(customers)) {
+            System.out.println(cust.getName());
+        }
+        System.out.println("The customers with a negative balance are:");
+        for (Customer cust : findNegativeBalances(customers)) {
+            System.out.println(cust.getName());
+        }
+
+    }
+
+    private static List<Customer> findPositiveBalances(List<Customer> customers) {
+        List<Customer> posCustomers = new ArrayList<>();
+        for (Customer cust : customers) {
+            if (cust.getBalance() > 0) {
+                posCustomers.add(cust);
+            }
+        }
+        return posCustomers;
+    }
+
+    private static List<Customer> findNegativeBalances(List<Customer> customers) {
+        List<Customer> negCustomers = new ArrayList<>();
+        for (Customer cust : customers) {
+            if (cust.getBalance() < 0) {
+                negCustomers.add(cust);
+            }
+        }
+        return negCustomers;
     }
 
     private static Customer findCustomer(List<Customer> customers, int customerId) {

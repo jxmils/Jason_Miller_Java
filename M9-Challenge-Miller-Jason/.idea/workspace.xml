@@ -5,20 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e9774ac-4b0b-409c-8ac5-9c77a8d1e6fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/OAuthConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/RecordStoreApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/controller/ControllerExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/controller/RecordStoreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/controller/UserInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/models/CustomErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/java/com/company/recordstoreapi/models/Record.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/test/java/com/company/recordstoreapi/RecordStoreApiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M9-Challenge-Starter/starter/record-store-api/src/test/java/com/company/recordstoreapi/controller/RecordStoreControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/OAuthConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/RecordStoreApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/controller/ControllerExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/controller/RecordStoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/controller/UserInfoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/models/CustomErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/models/Record.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/src/main/java/com/company/oauthgreeter/OauthGreeterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/src/main/java/com/company/oauthgreeter/controller/GreeterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/java/com/company/recordstoreapi/oauth-greeter/src/test/java/com/company/oauthgreeter/OauthGreeterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/test/java/com/company/recordstoreapi/RecordStoreApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/record-store-api/src/test/java/com/company/recordstoreapi/controller/RecordStoreControllerTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
